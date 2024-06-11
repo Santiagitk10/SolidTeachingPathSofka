@@ -1,0 +1,14 @@
+C:\Users\santiago.sierra\source\repos\SolidTeachingPathSofka\SolidTeachingPathSofka\bin\Debug\net6.0\SolidTeachingPathSofka.exe
+C:\Users\santiago.sierra\source\repos\SolidTeachingPathSofka\SolidTeachingPathSofka\bin\Debug\net6.0\SolidTeachingPathSofka.deps.json
+C:\Users\santiago.sierra\source\repos\SolidTeachingPathSofka\SolidTeachingPathSofka\bin\Debug\net6.0\SolidTeachingPathSofka.runtimeconfig.json
+C:\Users\santiago.sierra\source\repos\SolidTeachingPathSofka\SolidTeachingPathSofka\bin\Debug\net6.0\SolidTeachingPathSofka.dll
+C:\Users\santiago.sierra\source\repos\SolidTeachingPathSofka\SolidTeachingPathSofka\bin\Debug\net6.0\SolidTeachingPathSofka.pdb
+C:\Users\santiago.sierra\source\repos\SolidTeachingPathSofka\SolidTeachingPathSofka\obj\Debug\net6.0\SolidTeachingPathSofka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago.sierra\source\repos\SolidTeachingPathSofka\SolidTeachingPathSofka\obj\Debug\net6.0\SolidTeachingPathSofka.AssemblyInfoInputs.cache
+C:\Users\santiago.sierra\source\repos\SolidTeachingPathSofka\SolidTeachingPathSofka\obj\Debug\net6.0\SolidTeachingPathSofka.AssemblyInfo.cs
+C:\Users\santiago.sierra\source\repos\SolidTeachingPathSofka\SolidTeachingPathSofka\obj\Debug\net6.0\SolidTeachingPathSofka.csproj.CoreCompileInputs.cache
+C:\Users\santiago.sierra\source\repos\SolidTeachingPathSofka\SolidTeachingPathSofka\obj\Debug\net6.0\SolidTeachingPathSofka.dll
+C:\Users\santiago.sierra\source\repos\SolidTeachingPathSofka\SolidTeachingPathSofka\obj\Debug\net6.0\refint\SolidTeachingPathSofka.dll
+C:\Users\santiago.sierra\source\repos\SolidTeachingPathSofka\SolidTeachingPathSofka\obj\Debug\net6.0\SolidTeachingPathSofka.pdb
+C:\Users\santiago.sierra\source\repos\SolidTeachingPathSofka\SolidTeachingPathSofka\obj\Debug\net6.0\SolidTeachingPathSofka.genruntimeconfig.cache
+C:\Users\santiago.sierra\source\repos\SolidTeachingPathSofka\SolidTeachingPathSofka\obj\Debug\net6.0\ref\SolidTeachingPathSofka.dll

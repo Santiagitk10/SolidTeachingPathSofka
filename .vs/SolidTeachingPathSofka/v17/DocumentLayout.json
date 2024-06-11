@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|c:\\users\\santiago.sierra\\source\\repos\\solidteachingpathsofka\\solidteachingpathsofka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|solutionrelative:solidteachingpathsofka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|c:\\users\\santiago.sierra\\source\\repos\\solidteachingpathsofka\\solidteachingpathsofka\\calculadoraarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|solutionrelative:solidteachingpathsofka\\calculadoraarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|c:\\users\\santiago.sierra\\source\\repos\\solidteachingpathsofka\\solidteachingpathsofka\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|solutionrelative:solidteachingpathsofka\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|c:\\users\\santiago.sierra\\source\\repos\\solidteachingpathsofka\\solidteachingpathsofka\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|solutionrelative:solidteachingpathsofka\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|c:\\users\\santiago.sierra\\source\\repos\\solidteachingpathsofka\\solidteachingpathsofka\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|solutionrelative:solidteachingpathsofka\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|c:\\users\\santiago.sierra\\source\\repos\\solidteachingpathsofka\\solidteachingpathsofka\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|solutionrelative:solidteachingpathsofka\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|c:\\users\\santiago.sierra\\source\\repos\\solidteachingpathsofka\\solidteachingpathsofka\\descuentoporcentaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|solutionrelative:solidteachingpathsofka\\descuentoporcentaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|c:\\users\\santiago.sierra\\source\\repos\\solidteachingpathsofka\\solidteachingpathsofka\\descuentomontofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|solutionrelative:solidteachingpathsofka\\descuentomontofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|c:\\users\\santiago.sierra\\source\\repos\\solidteachingpathsofka\\solidteachingpathsofka\\idescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|solutionrelative:solidteachingpathsofka\\idescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|c:\\users\\santiago.sierra\\source\\repos\\solidteachingpathsofka\\solidteachingpathsofka\\servicioemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|solutionrelative:solidteachingpathsofka\\servicioemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|c:\\users\\santiago.sierra\\source\\repos\\solidteachingpathsofka\\solidteachingpathsofka\\iservicionotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|solutionrelative:solidteachingpathsofka\\iservicionotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|c:\\users\\santiago.sierra\\source\\repos\\solidteachingpathsofka\\solidteachingpathsofka\\notificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|solutionrelative:solidteachingpathsofka\\notificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|c:\\users\\santiago.sierra\\source\\repos\\solidteachingpathsofka\\solidteachingpathsofka\\serviciosms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|solutionrelative:solidteachingpathsofka\\serviciosms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|c:\\users\\santiago.sierra\\source\\repos\\solidteachingpathsofka\\solidteachingpathsofka\\television.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|solutionrelative:solidteachingpathsofka\\television.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|c:\\users\\santiago.sierra\\source\\repos\\solidteachingpathsofka\\solidteachingpathsofka\\iencendible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|solutionrelative:solidteachingpathsofka\\iencendible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|c:\\users\\santiago.sierra\\source\\repos\\solidteachingpathsofka\\solidteachingpathsofka\\iajustable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|solutionrelative:solidteachingpathsofka\\iajustable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|c:\\users\\santiago.sierra\\source\\repos\\solidteachingpathsofka\\solidteachingpathsofka\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDD165C-C583-4C9A-AEC0-88CBF04D6E02}|SolidTeachingPathSofka\\SolidTeachingPathSofka.csproj|solutionrelative:solidteachingpathsofka\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IServicioNotificacion.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\IServicioNotificacion.cs",
+              "RelativeDocumentMoniker": "SolidTeachingPathSofka\\IServicioNotificacion.cs",
+              "ToolTip": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\IServicioNotificacion.cs",
+              "RelativeToolTip": "SolidTeachingPathSofka\\IServicioNotificacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:35:19.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\Program.cs",
+              "RelativeDocumentMoniker": "SolidTeachingPathSofka\\Program.cs",
+              "ToolTip": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\Program.cs",
+              "RelativeToolTip": "SolidTeachingPathSofka\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:42:38.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Television.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\Television.cs",
+              "RelativeDocumentMoniker": "SolidTeachingPathSofka\\Television.cs",
+              "ToolTip": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\Television.cs",
+              "RelativeToolTip": "SolidTeachingPathSofka\\Television.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:57:01.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Radio.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\Radio.cs",
+              "RelativeDocumentMoniker": "SolidTeachingPathSofka\\Radio.cs",
+              "ToolTip": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\Radio.cs",
+              "RelativeToolTip": "SolidTeachingPathSofka\\Radio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:07:07.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEncendible.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\IEncendible.cs",
+              "RelativeDocumentMoniker": "SolidTeachingPathSofka\\IEncendible.cs",
+              "ToolTip": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\IEncendible.cs",
+              "RelativeToolTip": "SolidTeachingPathSofka\\IEncendible.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:54:26.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAjustable.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\IAjustable.cs",
+              "RelativeDocumentMoniker": "SolidTeachingPathSofka\\IAjustable.cs",
+              "ToolTip": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\IAjustable.cs",
+              "RelativeToolTip": "SolidTeachingPathSofka\\IAjustable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:55:44.78Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "0e9fc7c8-a43e-428a-b96b-5478f6ee6656",
+        "Display": 0,
+        "X": 1458,
+        "Y": 214,
+        "Width": 973,
+        "Height": 689,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Notificador.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\Notificador.cs",
+              "RelativeDocumentMoniker": "SolidTeachingPathSofka\\Notificador.cs",
+              "ToolTip": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\Notificador.cs",
+              "RelativeToolTip": "SolidTeachingPathSofka\\Notificador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:40:37.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DescuentoPorcentaje.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\DescuentoPorcentaje.cs",
+              "RelativeDocumentMoniker": "SolidTeachingPathSofka\\DescuentoPorcentaje.cs",
+              "ToolTip": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\DescuentoPorcentaje.cs",
+              "RelativeToolTip": "SolidTeachingPathSofka\\DescuentoPorcentaje.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:30:13.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServicioEmail.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\ServicioEmail.cs",
+              "RelativeDocumentMoniker": "SolidTeachingPathSofka\\ServicioEmail.cs",
+              "ToolTip": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\ServicioEmail.cs",
+              "RelativeToolTip": "SolidTeachingPathSofka\\ServicioEmail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:36:12.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServicioSMS.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\ServicioSMS.cs",
+              "RelativeDocumentMoniker": "SolidTeachingPathSofka\\ServicioSMS.cs",
+              "ToolTip": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\ServicioSMS.cs",
+              "RelativeToolTip": "SolidTeachingPathSofka\\ServicioSMS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:36:22.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\Circulo.cs",
+              "RelativeDocumentMoniker": "SolidTeachingPathSofka\\Circulo.cs",
+              "ToolTip": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\Circulo.cs",
+              "RelativeToolTip": "SolidTeachingPathSofka\\Circulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:00:21.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Forma.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\Forma.cs",
+              "RelativeDocumentMoniker": "SolidTeachingPathSofka\\Forma.cs",
+              "ToolTip": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\Forma.cs",
+              "RelativeToolTip": "SolidTeachingPathSofka\\Forma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:56:01.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculadoraArea.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\CalculadoraArea.cs",
+              "RelativeDocumentMoniker": "SolidTeachingPathSofka\\CalculadoraArea.cs",
+              "ToolTip": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\CalculadoraArea.cs",
+              "RelativeToolTip": "SolidTeachingPathSofka\\CalculadoraArea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:33:52.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\Pedido.cs",
+              "RelativeDocumentMoniker": "SolidTeachingPathSofka\\Pedido.cs",
+              "ToolTip": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\Pedido.cs",
+              "RelativeToolTip": "SolidTeachingPathSofka\\Pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:55:57.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDescuento.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\IDescuento.cs",
+              "RelativeDocumentMoniker": "SolidTeachingPathSofka\\IDescuento.cs",
+              "ToolTip": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\IDescuento.cs",
+              "RelativeToolTip": "SolidTeachingPathSofka\\IDescuento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:25:15.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DescuentoMontoFijo.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\DescuentoMontoFijo.cs",
+              "RelativeDocumentMoniker": "SolidTeachingPathSofka\\DescuentoMontoFijo.cs",
+              "ToolTip": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\DescuentoMontoFijo.cs",
+              "RelativeToolTip": "SolidTeachingPathSofka\\DescuentoMontoFijo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:30:27.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "SolidTeachingPathSofka\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\santiago.sierra\\source\\repos\\SolidTeachingPathSofka\\SolidTeachingPathSofka\\Rectangulo.cs",
+              "RelativeToolTip": "SolidTeachingPathSofka\\Rectangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:00:42.605Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
